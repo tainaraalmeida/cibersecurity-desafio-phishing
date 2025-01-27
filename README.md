@@ -18,7 +18,7 @@
 
 ### Resultados
 
-![localhost](https://github.com/user-attachments/assets/f9c1de34-45b1-45df-9c48-415ea437b618)
+
 
 
 ![kali](https://github.com/user-attachments/assets/b48d24ad-42c2-4466-b653-08390ae2798f)
